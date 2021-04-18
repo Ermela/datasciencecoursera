@@ -1,2 +1,2 @@
-# datasciencecoursera1
+# datasciencecoursera
 Course Project Week 2 
